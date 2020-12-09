@@ -1,15 +1,9 @@
 
+#
 ```
-- [Github](https://github.com/terminalwyz)
-- [Discord](terminal'root#1604)
-- [Youtube](https://youtube.com/sooon)
-
-```
-- [Only 1337](https://terminal.me)
-- [Not My Website(Buy for create)](https://terminaldev.com)
-
-```
- 💬 > 15 years old, french developper
+ 💬 > 14 years old
+ 
+ ✨ > French Developper !
 ```
 #
 ```
@@ -23,8 +17,9 @@
 ```
 #
 ```
-🐍 > python
-🌌 > csharp
-🌟 > JavaScript
-🌐 > Html / css (litle)
+🐍 > C#
+🌌 > Python
+🌟 > Cyber Security
+🌐 > HTML 
 ```
+#
