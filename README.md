@@ -12,5 +12,23 @@
 - [Only 1337](https://terminal.me)
 - [Not My Website(Buy for create)](https://terminaldev.com)
 
-[![Stanley github stats](https://github-readme-stats.vercel.app/api?username=terminalwyz)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terminalwyz&show_icons=true&count_private=true)
+```diff
+ 💬 > 15 years old, french developper
+```
+#
+```
+🤝 > Contact : zenrox.contact@gmail.com
+📌 > Discord : https://discord.gg/HDjaAD6
+```
+#
+```
+💫 > Contact : eviltool.contact@gmail.com
+✨ > Github  : https://github.com/EVIL-Tools
+```
+#
+```
+🐍 > python
+🌌 > csharp
+🌟 > JavaScript
+🌐 > Html / css (litle)
+```
