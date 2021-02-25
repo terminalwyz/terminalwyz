@@ -34,16 +34,14 @@ const 0xyx = {
    <img src="https://www.yozone.fr/IMG/jpg/tokyo_ghoul_8_centre.jpg">
 </a>
 <a href="https://discord.bio/p/termi">
-         <img src="">
-         </a>
+      
 
 <p align="center">
-  <a href="https://discord.gg/zep"><img src="https://www.yozone.fr/IMG/jpg/tokyo_ghoul_8_centre.jpg"></a>
-</p>
+  <a href="https://discord.gg/zep">
 
 <p align="center">
          <a href="https://discord.gg/zep">
-         <img src="https://i.imgur.com/JgA2C1B.png">
+     
          </a>
       
 
