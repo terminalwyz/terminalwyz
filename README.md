@@ -31,14 +31,14 @@ const 0xyx = {
   <img src="https://img.shields.io/github/followers/terminalwyz">
 </a>
 <a href="https://github.com/terminalwyz">
-   <img src="https://komarev.com/ghpvc/?username=terminalwyz">
+   <img src="https://www.yozone.fr/IMG/jpg/tokyo_ghoul_8_centre.jpg">
 </a>
 <a href="https://discord.bio/p/termi">
          <img src="">
          </a>
 
 <p align="center">
-  <a href="https://discord.gg/zep"><img src="https://media.discordapp.net/attachments/810213665911078912/812574936316903424/unknown.png?width=1246&height=701"></a>
+  <a href="https://discord.gg/zep"><img src="https://www.yozone.fr/IMG/jpg/tokyo_ghoul_8_centre.jpg"></a>
 </p>
 
 <p align="center">
