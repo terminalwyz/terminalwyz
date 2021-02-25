@@ -1,4 +1,4 @@
-![head.png](https://gfycat.com/fr/majoragitatedapisdorsatalaboriosa-i-love-kaneki-ken-more-than-you)
+![head.png](https://www.yozone.fr/IMG/jpg/tokyo_ghoul_8_centre.jpg)
 
 <p align="center">
 ─────────────────────────────────────
@@ -25,7 +25,7 @@ const 0xyx = {
 ─────────────────────────────────────
 </p>
 
-![4po's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
+![terminal's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/terminalwyz">
   <img src="https://img.shields.io/github/followers/terminalwyz">
@@ -34,7 +34,7 @@ const 0xyx = {
    <img src="https://komarev.com/ghpvc/?username=terminalwyz">
 </a>
 <a href="https://discord.bio/p/termi">
-         <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
+         <img src="">
          </a>
 
 <p align="center">
