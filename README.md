@@ -4,7 +4,7 @@
 ─────────────────────────────────────
 </p>
 
-Hi there, thanks for stopping by, this is **Mr 0xyx13.xyz**
+Hi there, thanks for stopping by, this is **0xyx13.xyz**
 
 <img align='right' src="https://i.imgur.com/J58s5GO.gif" width="230">
 
