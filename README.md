@@ -9,15 +9,11 @@ Hi there, thanks for stopping by, this is **Mr 0xyx13.xyz**
 <img align='right' src="https://i.imgur.com/J58s5GO.gif" width="230">
 
 ```javascript
-const 4po = {
+const 0xyx = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
         },
-        backEnd: ["Java", "PHP"],
+        backEnd: ["PHP"],
         databases: ["MySql", "oracle"],
     }
 };
@@ -31,32 +27,32 @@ const 4po = {
 
 ![4po's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://github.com/4po">
-  <img src="https://img.shields.io/github/followers/4po">
+<a href="https://github.com/terminalwyz">
+  <img src="https://img.shields.io/github/followers/terminalwyz">
 </a>
-<a href="https://github.com/4po">
-   <img src="https://komarev.com/ghpvc/?username=4po">
+<a href="https://github.com/terminalwyz">
+   <img src="https://komarev.com/ghpvc/?username=terminalwyz">
 </a>
-<a href="https://discord.bio/p/apo">
+<a href="https://discord.bio/p/termi">
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
 
 <p align="center">
-  <a href="https://discord.gg/hellsing"><img src="https://media.discordapp.net/attachments/810213665911078912/812574936316903424/unknown.png?width=1246&height=701"></a>
+  <a href="https://discord.gg/zep"><img src="https://media.discordapp.net/attachments/810213665911078912/812574936316903424/unknown.png?width=1246&height=701"></a>
 </p>
 
 <p align="center">
-         <a href="https://discord.gg/hellsing">
+         <a href="https://discord.gg/zep">
          <img src="https://i.imgur.com/JgA2C1B.png">
          </a>
       
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @4po on GitHub">Follow @4po</a>
+<a class="github-button" href="https://twitter.com/soon" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @terminalwyz on GitHub">Follow @4</a>
 
 
 <br>
 
 ---
 
-🔎 From [@4po](https://github.com/4po)
+🔎 From [@terminalwyz](https://github.com/terminalwyz)
