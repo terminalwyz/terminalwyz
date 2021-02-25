@@ -48,7 +48,7 @@ const 0xyx = {
       
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://twitter.com/soon" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @terminalwyz on GitHub">Follow @4</a>
+<a class="github-button" href="https://twitter.com/soon" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @terminalwyz on GitHub">Follow @terminalwyz</a>
 
 
 <br>
