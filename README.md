@@ -25,7 +25,7 @@ const 0xyx = {
 ─────────────────────────────────────
 </p>
 
-![terminal's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
+![terminal's github stats]
 
 <a href="https://github.com/terminalwyz">
   <img src="https://img.shields.io/github/followers/terminalwyz">
