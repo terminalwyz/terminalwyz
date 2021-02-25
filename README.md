@@ -31,7 +31,7 @@ const 0xyx = {
   <img src="https://img.shields.io/github/followers/terminalwyz">
 </a>
 <a href="https://github.com/terminalwyz">
-   <img src="https://www.yozone.fr/IMG/jpg/tokyo_ghoul_8_centre.jpg">
+
 </a>
 <a href="https://discord.bio/p/termi">
       
@@ -42,7 +42,7 @@ const 0xyx = {
 <p align="center">
          <a href="https://discord.gg/zep">
      
-         </a>
+        
       
 
 <!-- Place this tag where you want the button to render. -->
