@@ -9,13 +9,11 @@ Hi there, thanks for stopping by, this is **0xyx13.xyz**
 <img align='right' src="https://i.imgur.com/J58s5GO.gif" width="230">
 
 ```javascript
-const 0xyx = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
-        },
-        backEnd: ["PHP"],
-        databases: ["MySql", "oracle"],
-    }
+const _0xyx = {
+  pronouns: "He" | "Him",
+  asmMeAbout: ["web dev", "tech", "game"],
+  backEnd: ["PHP"],
+  databases: ["Myql", "oracle"]
 };
 ```
 
@@ -25,7 +23,6 @@ const 0xyx = {
 ─────────────────────────────────────
 </p>
 
-![terminal's github stats]
 
 <a href="https://github.com/terminalwyz">
   <img src="https://img.shields.io/github/followers/terminalwyz">
